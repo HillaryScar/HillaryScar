@@ -1,0 +1,3 @@
+- 👋 Oi, eu sou a Hillary Scarlet, tenho 16 anos
+- 👀 Gosto de HTML e Design
+- 🌱 Faço Desenvolvimento de Sistemas na Etec
