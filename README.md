@@ -1,2 +1,2 @@
-- 👀 Gosto de HTML e Design
+- 👀 Gosto de HTML, Design e MySQL
 - 🌱 Estudo Desenvolvimento de Sistemas na Etec
